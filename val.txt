@@ -1,0 +1,1 @@
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/311.jpg 214,178,239,205,0 283,145,319,184,0 330,177,388,250,0

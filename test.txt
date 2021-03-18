@@ -1,0 +1,7 @@
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/045.jpg 321,143,374,170,0 377,195,430,263,0
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/050(4).jpg 250,177,319,214,0 314,186,368,270,0
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/052(3).jpg 180,178,259,216,0 307,182,363,229,0 310,245,342,275,0 267,189,305,211,0
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/086.jpg 216,204,290,284,0 349,205,389,239,0 356,249,376,278,0 137,188,207,215,0
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/153.jpg 258,137,337,183,0
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/292.jpg 260,102,313,140,0 332,100,362,127,0 354,142,399,170,0
+E:\pycharm\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/303.jpg 279,142,317,183,0 329,175,377,219,0 230,188,246,205,0
